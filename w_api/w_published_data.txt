@@ -1,0 +1,1 @@
+a:2:{s:5:"pages";a:5:{i:0;s:12:"gallery.html";i:1;s:10:"index.html";i:2;s:13:"about-us.html";i:3;s:24:"storytestimony-page.html";i:4;s:18:"contactevents.html";}s:9:"protected";a:5:{s:4:"HOME";b:0;s:8:"About Us";b:0;s:14:"Contact/Events";b:0;s:20:"Story/Testimony Page";b:0;s:7:"Gallery";b:0;}}
